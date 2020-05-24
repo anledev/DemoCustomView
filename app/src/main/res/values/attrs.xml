@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="IconButton">
+        <attr name="buttonTitle" format="string"/>
+        <attr name="iconSrc" format="reference" />
+        <attr name="showIconRight" format="boolean" />
+        <attr name="titleTextCapAll" format="boolean" />
+        <attr name="iconSize" format="dimension" />
+        <attr name="buttonPadding" format="dimension" />
+    </declare-styleable>
+</resources>
